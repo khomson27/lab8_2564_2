@@ -12,7 +12,6 @@ using namespace std;
 		return '0';
 	}
 }
-
 int main(){
 	//Test Case
 	cout << before('A') << "\n";

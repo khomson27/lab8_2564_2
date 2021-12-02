@@ -5,7 +5,6 @@ int main() {
     double a  =  20, b = 30,c = 4;
     double output;
 
-    
     output = a - (b/c);
     cout << "output: " << output << endl;
     return 0;
